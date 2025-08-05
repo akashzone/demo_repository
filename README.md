@@ -39,7 +39,8 @@ Laptop
 
  📄 License
 This project is open source and free to use.
-🙌 Acknowledgements
+
+🙌 Acknowledgements : 
 Inspired by modern travel website designs
 Thanks to all free image resources used in the project
 
