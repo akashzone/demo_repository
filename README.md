@@ -3,13 +3,13 @@ Designed to showcase beautiful travel destinations with a modern and clean user 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b06b66d9-c63f-4d95-be31-206f74cde251" />
 <img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/0341a353-4ed0-4727-bb5a-4c3c213b3559" />
-<img width="1893" height="907" alt="image" src="https://github.com/user-attachments/assets/a3a170fd-dd8a-4a2a-8f21-4a1f081018e7" />
 <img width="1893" height="745" alt="image" src="https://github.com/user-attachments/assets/2d16fc24-a08a-4b88-93c5-197448ed1cda" />
 <img width="453" height="800" alt="Screenshot 2025-08-05 193745" src="https://github.com/user-attachments/assets/89082cde-28f7-4b97-a974-860362884bfc" />
 <img width="438" height="781" alt="image" src="https://github.com/user-attachments/assets/aefecf5f-fb3a-41b0-b01c-ba110b36135f" />
 
 
-✨ Features
+✨ Features :
+
 🌐 Responsive Design – Looks great on mobile, tablet, and desktop.
 
 🎨 Modern UI – Clean layout with visually appealing elements.
